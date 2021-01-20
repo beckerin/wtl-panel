@@ -1,2 +1,2 @@
 # wtl-panel
-Wartale in-game panel.
+Wartale panel.
